@@ -1,0 +1,1 @@
+To compile the hello-module example, run 'make'. This will output an object file called 'hello-module.ko', which you can test using 'make test' or install the module with 'insmod hello-module.ko' and remove it with 'rmmod hello_module'.

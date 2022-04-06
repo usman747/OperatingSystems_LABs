@@ -1,0 +1,1 @@
+To compile the hello-world example, run 'make'. This will output a binary file called 'hello-world', which you can execute.
